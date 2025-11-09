@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Paris Real-Time Route Planner",
+  "description": "An agent that checks the real-time route between La Défense and 12 Rue Leonard De Vinci in Paris and suggests the fastest way to commute using Gemini with Google Maps grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
